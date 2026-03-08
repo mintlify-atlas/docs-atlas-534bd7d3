@@ -1,0 +1,72 @@
+{
+  "projectType": "frontend",
+  "projectName": "MotionTech",
+  "projectDescription": "Landing page for Parts ITL Corp showcasing electric motorcycles, tricycles, and spare parts for sustainable urban mobility.",
+  "theme": "almond",
+  "primaryColor": "#0495d8",
+  "lightColor": "#040404",
+  "darkColor": null,
+  "navigation": {
+    "groups": [
+      {
+        "group": "Overview",
+        "pages": [
+          "introduction",
+          "getting-started"
+        ]
+      },
+      {
+        "group": "Product Catalog",
+        "pages": [
+          "products/electric-tricycles",
+          "products/electric-motorcycles",
+          "products/spare-parts"
+        ]
+      },
+      {
+        "group": "Technical Specifications",
+        "pages": [
+          "specifications/c400-tricycle",
+          "specifications/c800-tricycle",
+          "specifications/lt4201-motorcycle",
+          "specifications/lt4209-motorcycle",
+          "specifications/battery-systems"
+        ]
+      },
+      {
+        "group": "Guides",
+        "pages": [
+          "guides/maintenance",
+          "guides/safety",
+          "guides/charging"
+        ]
+      },
+      {
+        "group": "Company",
+        "pages": [
+          "company/about",
+          "company/contact",
+          "company/support"
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Electric tricycles with up to 800kg load capacity",
+    "Electric motorcycles with 40-80km range",
+    "LifePO4 battery systems (48V-60V)",
+    "Comprehensive spare parts inventory",
+    "Sustainable urban mobility solutions",
+    "Expert technical support and consultation"
+  ],
+  "publicApiSurface": [
+    "C-400 Electric Tricycle (70km range, 400kg capacity)",
+    "C-800 Electric Tricycle (70km range, 800kg capacity)",
+    "LT 4201 Electric Motorcycle (80km range, 45-50 km/h)",
+    "LT 4209 Electric Motorcycle (40-80km range, 30 km/h)",
+    "R12 Tires and Spare Parts",
+    "Contact: +507 6430-0025",
+    "Email: part.itl.comercial@gmail.com",
+    "Location: Ave Samuel Lewis, SL55 Tower, Panama"
+  ]
+}
